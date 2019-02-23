@@ -1,0 +1,61 @@
+Ska kunna tills Prg prov 28/02-19
+
+Kap 1
+Grundläggande om programmering. Hur en dator fungerar samt hur ett program fungerar.
+
+Kap 2 och Kap 3
+Grunderna i ett javaprogram. Public class (namn) och psvm.
+Variabler, vilka olika datatyper finns? (T.ex String, Char, Int, short, long, double)
+Primitiva datatyper, är bara sitt värde (det som finns på minnesadressen)
+Skillnaden mellan
+Int a;
+a = '5';
+int a = 5;
+Vi måste deklarera en variabel innan det går att använda den.
+Räknesätt:
++
+-
+*
+/
+%
+Vid matte: Använd 'Math.'
+Scanner eller ShowMessageDialog
+EX: Skriv ett program som läser in ditt namn, samt skostorlek, och skriver ut det.
+
+Kap 4
+If satser
+Boolean
+Allt som är sant/falskt går att stoppa in i en if-sats
+If, If else, If else If else If
+Om det är vardag, gå till skolan
+Annars, stanna hemma
+Villkorstyper: Primitiva datatyper: < <= > => == != (equals, compareTo)
+
+Kap 5
+Loopar / Itterationer
+Ex: For-loop samt While-loop (Do while)
+Man kan alltid skriva om en loop-typ som en annan
+Do görs alltid minst en gång
+While kör så länge ett villkor är sant
+For kör loopen ett visst antal gånger
+Kan du ovanstående? Då kan du (till viss del) programmera
+
+Kap 6
+Algoritmer, flödesdiagram
+Hur strukturerar jag upp programmet?
+Skriva recept/regler
+
+Kap 7
+Felsökning
+Förstå felmeddelanden, olika typer av fel
+
+Kap 8
+Metoder
+Hur skriver man metoder?
+Man skriver metoder för att strukturera sin kod.
+
+Kap 11
+Fält / Arrayer
+Listor
+En typ av variabel som kan innehålla många saker
+
